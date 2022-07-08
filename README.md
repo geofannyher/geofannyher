@@ -1,5 +1,5 @@
 
-<img width="1000" src="https://github.com/geofannyher/geofannyher/blob/main/1.png">
+<img width="500" src="https://github.com/geofannyher/geofannyher/blob/main/1.png">
 
 ### Hi I'm Front End Developer 👋
 Here are some ideas to get you started:
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=geofannyher&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
