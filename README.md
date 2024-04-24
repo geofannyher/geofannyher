@@ -18,13 +18,13 @@ _***Currently(and future) Learning:***_
         </div>
       </div>
     </td>
-    <td class="border_l border_r border_t border_b selected">
+<!--     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
         <div style="margin: 10px 5px, font-weight: bold;">
           <p align="center">Mobile Apps Development</p>
         </div>
       </div>
-    </td>
+    </td> -->
   </tr>
   
   <tr>
