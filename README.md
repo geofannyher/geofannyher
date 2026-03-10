@@ -1,10 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm M. Geofany Hermawan</h1>
-<p align="center" style="font-style: italic;">"Just a simple man crafting cool UIs, mastering state management – I've got it down!"</p>
 
-- 💬 Ask me about **How to be a simple man.**
 - 📫 How to reach me, mail to **geofannyher@gmail.com**
-- ⚡ Fun fact about me **I love trying out new and challenging things**
 
 <br/>
 
